@@ -1,4 +1,4 @@
-# zadanie_rekrutacyjne_devapo
+
 
 Program will run and process the 'problem.graphml' file and return calculated prices. 
 
